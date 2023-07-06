@@ -159,6 +159,8 @@ nav{
 .burger{
   display: block;
   font-size: 30px;
+  padding-bottom: 10px;
+  padding-right: 5px;  
 } 
 #desktop{
   display: none;
